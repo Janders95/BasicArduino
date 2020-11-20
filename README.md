@@ -30,6 +30,7 @@ write a reflection here, remember that it should be usefull, not a diary entry.
 
 ### Description & Code
 
+I put the blink time to 500 which makes it blinks 5 times than stops
 ```C++
 Code Goes Here
 ```
@@ -37,6 +38,6 @@ Code Goes Here
 ### Evidence
 https://create.arduino.cc/editor/janders95/03614aad-b1ce-4270-92e2-0756310d92a4/preview
 ### Image or Wiring
-
+<img src="https://github.com/Janders95/BasicArduino/tree/main/images" width="300px" /> 
 ### Reflection
 I learned how to make a led blink for a couple of times then stop
